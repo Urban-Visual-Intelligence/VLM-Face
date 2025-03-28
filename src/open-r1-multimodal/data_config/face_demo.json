@@ -1,0 +1,16 @@
+{
+    "cfp_ff_direct": {
+      "root": "/mnt/afs/machengqian/data/face/cfp_ff",
+      "annotation": "/mnt/afs/machengqian/data/face/caption/cfp_ff_direct_0321_v1.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 7000
+    },
+    "calfw_direct": {
+      "root": "/mnt/afs/machengqian/data/face/calfw",
+      "annotation": "/mnt/afs/machengqian/data/face/caption/calfw_direct_0321_v1.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 6000
+  }
+}
