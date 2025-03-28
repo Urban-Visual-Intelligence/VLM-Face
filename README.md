@@ -154,9 +154,8 @@ torchrun --nproc_per_node="8" \
  -->
 ## Evaluation
 
-![image](./assets/data.png)
 
-> 1. Download the [LFW & AgeDB] dataset(https://huggingface.co/datasets/omlab/VLM-R1/resolve/main/refgta.zip).
+> 1. Download the LFW & AgeDB dataset.
 
 > 2. Start the vllm server (if you have more gpu resources, you can adjust the -tp number higher)
 
