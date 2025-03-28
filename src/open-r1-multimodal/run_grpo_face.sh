@@ -18,7 +18,7 @@ torchrun --nproc_per_node="8" \
     --max_completion_length 512 \
     --num_generations 8 \
     --per_device_train_batch_size 1 \
-    --gradient_accumulation_steps 4 \
+    --gradient_accumulation_steps 2 \
     --logging_steps 1 \
     --beta 0.01 \
     --bf16 \
