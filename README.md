@@ -21,7 +21,7 @@ Specifically, we trained [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) usin
 
 ## Update
 
-- 2025-02-15: We release the VLM-Face repository including training and testing script.
+- 2025-03-28: We release the VLM-Face repository including training and testing script.
 
 ## Setup
 
